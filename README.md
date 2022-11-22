@@ -9,3 +9,4 @@
 - git rebase
 - git cherry-pick
 - git push
+- git fetch
