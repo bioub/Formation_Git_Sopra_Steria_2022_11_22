@@ -8,3 +8,4 @@
 - git merge
 - git rebase
 - git cherry-pick
+- git push
